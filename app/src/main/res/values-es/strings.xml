@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">PMDM_A2T3</string>
+    <string name="btnConfirm">Confirmar</string>
+    <string name="btnCancel">Cancelar</string>
+</resources>
